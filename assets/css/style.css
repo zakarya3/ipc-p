@@ -10292,7 +10292,8 @@
                                 }
                                 
                                 .z-index-0 {
-                                    z-index: 0!important
+                                    z-index: 0!important;
+                                    display: none;
                                 }
                                 
                                 .z-index-1 {
